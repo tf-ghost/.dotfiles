@@ -1,0 +1,11 @@
+include "~/.nano/*.nanorc"
+
+set tabsize 4
+set autoindent
+set cut
+set morespace
+set nohelp
+set preserve
+set smarthome
+set multibuffer
+set suspend
